@@ -6,7 +6,7 @@
 
 Build OpenWrt using GitHub Actions
 
-切换到diy-1分支查看地皮定制~
+#[切换到diy-1分支查看地皮定制~](https://github.com/DefiedParty/Actions-DpenWrt/tree/diy-1)
 
 [Read the details in my blog (in Chinese) | 中文教程](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
