@@ -16,7 +16,7 @@ Build OpenWrt using GitHub Actions
   - 先fork到你的库，或者点使用模板.
   - 从diy-1提交一个.config到work分支.
   - 在Actions里面就可以看到啦！.
-  
+  - 欢迎提交pr到diy-1分支，以.config[1——n]命名，文件顶头用注释写上固件特性！
   
 ## 原版说明如下
 
