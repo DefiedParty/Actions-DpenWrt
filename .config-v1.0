@@ -1,5 +1,41 @@
 #Waiting for paste .config file.
 #
+#这是v1.0版本
+#特性：
+#文件传输
+#广告屏蔽
+#全功能SSR
+#上网时间控制
+#解锁网易云灰色歌曲
+#PPPoE穿透
+#网络唤醒
+#ShairPlay、AirPlay 2、PCHiFi（重复功能按需选择）
+#迅雷快鸟
+#Samba4(大多数设备不支持，下个版本会降低版本)
+#KMS服务
+#Docker(体验不完美，使用完美)
+#硬盘休眠
+#DLAN服务器
+#qBittorrent
+#aMule
+#FTP服务器
+#Aria2
+#IPSec VPN 服务器
+#OpenVPN 服务器
+#ZeroTier
+#Turbo ACC 网络加速
+#多线/单线多拨
+#负载均衡
+#IPv6（和多拨不能同时使用）
+#
+#
+#
+#
+#
+#
+#
+#
+
 # Automatically generated file; DO NOT EDIT.
 # OpenWrt Configuration
 #
